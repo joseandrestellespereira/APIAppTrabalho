@@ -1,0 +1,14 @@
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\bin\Debug\netcoreapp2.1\WebAppTrabalho.deps.json
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\bin\Debug\netcoreapp2.1\WebAppTrabalho.runtimeconfig.json
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\bin\Debug\netcoreapp2.1\WebAppTrabalho.runtimeconfig.dev.json
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\bin\Debug\netcoreapp2.1\WebAppTrabalho.dll
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\obj\Debug\netcoreapp2.1\WebAppTrabalho.csproj.CoreCompileInputs.cache
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\obj\Debug\netcoreapp2.1\WebAppTrabalho.RazorAssemblyInfo.cache
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\obj\Debug\netcoreapp2.1\WebAppTrabalho.RazorAssemblyInfo.cs
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\obj\Debug\netcoreapp2.1\WebAppTrabalho.AssemblyInfoInputs.cache
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\obj\Debug\netcoreapp2.1\WebAppTrabalho.AssemblyInfo.cs
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\obj\Debug\netcoreapp2.1\WebAppTrabalho.RazorTargetAssemblyInfo.cache
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\bin\Debug\netcoreapp2.1\WebAppTrabalho.pdb
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\obj\Debug\netcoreapp2.1\WebAppTrabalho.dll
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\obj\Debug\netcoreapp2.1\WebAppTrabalho.pdb
+C:\dev\Web\WebAppTrabalho\WebAppTrabalho\obj\Debug\netcoreapp2.1\WebAppTrabalho.csprojAssemblyReference.cache
